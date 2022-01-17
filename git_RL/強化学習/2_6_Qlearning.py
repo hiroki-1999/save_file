@@ -206,8 +206,8 @@ while is_continue:  # is_continueがFalseになるまで繰り返す
         break
 
 
-step=[]
-step[]=[]
+#step=[]
+#step[]=[]
 
 
 
